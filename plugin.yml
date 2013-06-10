@@ -1,0 +1,7 @@
+name: Awardments
+main: com.wolvencraft.yasp.awardments.Awardments
+version: 1.0
+description: An achievements plugin for the YASP project
+website: http://dev.bukkit.org/server-mods/Awardments/
+authors: [bitWolfy, Dazzel_]
+depend: [Statistics]
